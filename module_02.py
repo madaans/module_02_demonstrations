@@ -43,3 +43,6 @@ print("Name:" , name)
 salary = input("Please enter your salary:")
 salary = float(salary)
 print(f"Salary: ${salary:,.2f}.")
+
+standard = input("please enter your class")
+print(f"CLASS: {standard:,}.")
