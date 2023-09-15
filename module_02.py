@@ -17,7 +17,7 @@ def CalculateZ(x,y):
 answer = CalculateZ(5,6)
 #print(answer)
 
-print("Hello","World")
+"""print("Hello","World")
 print("Hello","World", sep='_')
 print("Hello","World", sep='_', end='$')
 print("Hello","World",sep='_', end='$')
@@ -45,4 +45,14 @@ salary = float(salary)
 print(f"Salary: ${salary:,.2f}.")
 
 standard = input("please enter your class")
-print(f"CLASS: {standard:,}.")
+print(f"CLASS: {standard:,}.")"""
+
+number = 20
+
+if(not number == 20):
+    print("number is equal to 20")
+    
+    result = ((10 + 5) * 2) / 3 - 1
+    print(result) 
+    
+    
